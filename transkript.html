@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="sv">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Transkript | Faktakollat</title>
+<meta name="description" content="Tidskodat transkript av SVT:s Statsministermötet den 9 september 2026, baserat på SVT:s publicerade undertextning.">
+<style>
+:root{--bg:#f4f6f8;--surface:#fff;--ink:#101722;--muted:#606b7b;--line:#dfe3e8;--navy:#101827;--max:980px}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.6 Inter,system-ui,-apple-system,"Segoe UI",sans-serif}.wrap{width:min(var(--max),calc(100% - 28px));margin:auto}header{background:var(--navy);color:#fff;padding:48px 0 38px}h1{font-size:clamp(2.2rem,6vw,4.4rem);line-height:.98;letter-spacing:-.045em;margin:.4rem 0 1rem}.eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.76rem;font-weight:800;color:#c6d0dc}.lead{max-width:760px;color:#dce3eb}.back{display:inline-block;margin-top:18px;color:#fff;text-decoration:none;border:1px solid #ffffff44;border-radius:999px;padding:9px 13px;font-weight:750}main{padding:38px 0 56px}.notice{background:#fff;border:1px solid var(--line);border-left:5px solid var(--navy);border-radius:10px;padding:18px;margin-bottom:22px}.parts{display:flex;gap:8px;flex-wrap:wrap;margin:0 0 20px}.parts a{background:#fff;border:1px solid var(--line);border-radius:999px;padding:7px 11px;text-decoration:none;font-size:.88rem;font-weight:700}.transcript{background:#fff;border:1px solid var(--line);border-radius:12px;padding:22px;white-space:pre-wrap;overflow-wrap:anywhere;font:15px/1.62 ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;box-shadow:0 12px 34px #0f172a0b}.muted{color:var(--muted)}footer{color:var(--muted);font-size:.9rem;padding:0 0 45px}
+</style>
+</head>
+<body>
+<header><div class="wrap"><div class="eyebrow">Faktakollat · Källmaterial</div><h1>Hela transkriptet</h1><p class="lead">Tidskodat transkript av Statsministermötet den 9 september 2026. Texten bygger på SVT:s publicerade undertextning och kan därför vara lätt redigerad jämfört med exakt ordagrant tal.</p><a class="back" href="index.html">Tillbaka till granskningen</a></div></header>
+<main><div class="wrap"><div class="notice"><b>Kontrollera gärna mot originalvideon.</b> Undertextning är ett mycket bra underlag för sökning och systematisk granskning, men den är inte en stenografisk utskrift.</div><div class="parts"><a href="transkript/del-01.txt">Del 1</a><a href="transkript/del-02.txt">Del 2</a><a href="transkript/del-03.txt">Del 3</a><a href="transkript/del-04.txt">Del 4</a><a href="transkript/del-05.txt">Del 5</a><a href="transkript/del-06.txt">Del 6</a><a href="transkript/del-07.txt">Del 7</a><a href="transkript/del-08.txt">Del 8</a></div><div id="transcript" class="transcript">Laddar transkriptet…</div><noscript><p class="muted">JavaScript är avstängt. Öppna delarna ovan för att läsa transkriptet.</p></noscript></div></main>
+<footer><div class="wrap">Faktakollat är ett oberoende AI assisterat granskningsprojekt och är inte producerat av eller knutet till SVT.</div></footer>
+<script>
+const files=Array.from({length:8},(_,i)=>`transkript/del-${String(i+1).padStart(2,'0')}.txt`);
+Promise.all(files.map(f=>fetch(f).then(r=>{if(!r.ok)throw new Error(f);return r.text()}))).then(parts=>{document.getElementById('transcript').textContent=parts.join('\n')}).catch(()=>{document.getElementById('transcript').innerHTML='Transkriptet kunde inte laddas automatiskt. Använd länkarna till del 1–8 ovan.'});
+</script>
+</body>
+</html>
