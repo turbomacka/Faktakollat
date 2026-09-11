@@ -93,10 +93,11 @@
     "speaker": "Ulf Kristersson",
     "topic": "Skola",
     "claim": "Skolan har fått mer pengar varje år.",
-    "fact": "I fasta priser minskade den totala kostnaden för skolväsendet och annan pedagogisk verksamhet med 2,3 procent 2023 jämfört med 2022. Nominella belopp kan öka samtidigt som de reala resurserna minskar.",
+    "fact": "Skolverkets senaste publicerade kostnadsstatistik gäller 2024. För grundskolan minskade kostnaden i fasta priser med 1,9 procent 2023 jämfört med 2022 och ökade sedan med 2,0 procent 2024 jämfört med 2023. Påståendet att skolan fått mer pengar varje år håller därför inte om det avser reala resurser.",
     "verdict": "Missvisande",
-    "source": "Skolverket",
-    "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/beskrivande-statistik/2024/kostnader-for-skolvasendet-och-annan-pedagogisk-verksamhet-2023"
+    "source": "Skolverket 2023–2024",
+    "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/beskrivande-statistik/2025/kostnader-for-skolvasendet-och-annan-pedagogisk-verksamhet-2024",
+    "url_previous": "https://www.skolverket.se/sok-publikationer/publikationsserier/beskrivande-statistik/2024/kostnader-for-skolvasendet-och-annan-pedagogisk-verksamhet-2023"
   },
   {
     "id": "f10",
