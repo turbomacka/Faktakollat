@@ -18,7 +18,9 @@ Den första granskningen gäller SVT:s **Statsministermötet den 9 september 202
 
 `data.json` innehåller granskningsresultaten i maskinläsbart format.
 
-`transkript.txt` innehåller den rengjorda tidskodade versionen av SVT:s undertextning.
+`transkript.html` är en läsbar webbsida som hämtar hela transkriptet.
+
+`transkript/del-01.txt` till `transkript/del-08.txt` innehåller den rengjorda tidskodade versionen av SVT:s undertextning.
 
 `.nojekyll` gör att GitHub Pages serverar innehållet utan Jekyll bearbetning.
 
@@ -38,6 +40,10 @@ SVT:s undertextning kan vara lätt redigerad jämfört med exakt ordagrant tal. 
 ## Rättelser
 
 Om du hittar ett fel, öppna gärna ett issue i repot och ange vilken rad eller tidskod det gäller samt den källa som motsäger bedömningen.
+
+## Publicering
+
+Sajten är byggd som statisk HTML och kan publiceras direkt med GitHub Pages från `main` och repository root.
 
 ## Licens och källmaterial
 
