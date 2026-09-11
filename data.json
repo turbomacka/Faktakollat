@@ -1,0 +1,134 @@
+[
+  {
+    "id": "f1",
+    "time": "00:10:00",
+    "speaker": "Ulf Kristersson",
+    "topic": "Energi",
+    "claim": "Vi har godkänt sex havsvindparker på fyra år.",
+    "fact": "Regeringens egen redovisning den 16 juli 2026 anger att tre parker hade godkänts tidigare under mandatperioden och ytterligare två då fick tillstånd. Det blir fem, inte sex.",
+    "verdict": "Felaktigt",
+    "source": "Regeringen",
+    "url": "https://www.regeringen.se/pressmeddelanden/2026/07/nya-beslut-om-havsbaserad-vindkraft/"
+  },
+  {
+    "id": "f2",
+    "time": "00:11:41",
+    "speaker": "Magdalena Andersson",
+    "topic": "Energi",
+    "claim": "Alla andra länder runt Östersjön … bygger just nu ut stora havsvindsparker.",
+    "fact": "Påståendet är för kategoriskt. Finland hade exempelvis stora projekt som fortfarande befann sig i planering under 2026. Korsnäsprojektet beskrevs i mars 2026 uttryckligen som ett projekt vars planering pågick.",
+    "verdict": "Felaktigt",
+    "source": "Metsähallitus",
+    "url": "https://www.metsa.fi/en/press-releases/the-planning-of-the-korsnas-offshore-wind-farm-project-is-progressing-extensive-weather-and-ocean-conditions-study-confirms-the-suitability-of-the-project-area-for-offshore-wind-farm-constru/"
+  },
+  {
+    "id": "f3",
+    "time": "00:29:19",
+    "speaker": "Ulf Kristersson",
+    "topic": "Skatt",
+    "claim": "Socialdemokraterna höjer skatten för ALLA som jobbar.",
+    "fact": "Socialdemokraternas budgetförslag ger samma förstärkning av jobbskatteavdraget som regeringens för inkomster upp till 66 750 kronor i månaden. Högre inkomster påverkas av återinförd avtrappning. Alla som arbetar får alltså inte höjd skatt.",
+    "verdict": "Felaktigt",
+    "source": "Sveriges riksdag",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/yttrande/skattefragor-i-budgetpropositionen-for-2026_hd05sku1y/html/"
+  },
+  {
+    "id": "f4",
+    "time": "00:28:13",
+    "speaker": "Magdalena Andersson",
+    "topic": "Ekonomi",
+    "claim": "Vi har de största underskotten på en generation.",
+    "fact": "Riksgälden prognostiserade ett underskott på 196 miljarder kronor för 2026. År 2020 var statens budgetunderskott 221 miljarder kronor. Ett större underskott inträffade alltså bara sex år tidigare.",
+    "verdict": "Felaktigt",
+    "source": "Riksgälden",
+    "url": "https://www.riksgalden.se/press-och-publicerat/pressmeddelanden-och-nyheter/pressmeddelanden/2026/riksgalden-lanar-mer-for-att-tacka-statens-underskott/"
+  },
+  {
+    "id": "f5",
+    "time": "00:30:14",
+    "speaker": "Ulf Kristersson",
+    "topic": "Bistånd",
+    "claim": "Socialdemokraternas mål om enprocentsbistånd skulle betyda 22 miljarder nästa år.",
+    "fact": "Socialdemokraternas budgetmotion för 2026 föreslår 1 miljard kronor mer i bistånd än regeringen. Riksdagens finansutskott beskriver förslaget som en stegvis förstärkning tills enprocentsmålet nås.",
+    "verdict": "Felaktigt",
+    "source": "Sveriges riksdag",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/betankande/statens-budget-2026-rambeslutet_hd01fiu1/html/"
+  },
+  {
+    "id": "f6",
+    "time": "00:33:31",
+    "speaker": "Magdalena Andersson",
+    "topic": "Transport",
+    "claim": "Elektrifieringen av vår fordonsflotta har stannat av … legat platt i Sverige.",
+    "fact": "Utvecklingen bromsade under delar av perioden, men låg inte platt. Under 2025 blev 63,2 procent av de nyregistrerade personbilarna laddbara, den högsta andelen dittills.",
+    "verdict": "Missvisande",
+    "source": "Mobility Sweden",
+    "url": "https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1/nyregistreringar-2025/svagt-fordonsar-2025-rekordar-for-laddhybrider"
+  },
+  {
+    "id": "f7",
+    "time": "00:42:29",
+    "speaker": "Ulf Kristersson",
+    "topic": "Skola",
+    "claim": "PISA antyder att de här skärmarna och sociala medier är en ganska stor skuld till resultaten.",
+    "fact": "OECD ser digital distraktion som ett generellt problem. För Sverige fann PISA 2025 samtidigt ingen statistiskt säkerställd skillnad i naturvetenskapliga resultat kopplad till rapporterad digital distraktion. PISA ger därför inte stöd för den starka kausala formuleringen.",
+    "verdict": "Obestyrkt",
+    "source": "OECD, PISA 2025",
+    "url": "https://www.oecd.org/en/publications/pisa-2025-results-volume-i-country-notes_2d4ff9ea-en/sweden_a502fd30-en.html"
+  },
+  {
+    "id": "f8",
+    "time": "00:45:53",
+    "speaker": "Ulf Kristersson",
+    "topic": "Skola",
+    "claim": "Socialdemokraterna vill i princip ta bort alla svenska friskolor eftersom de drivs i aktiebolagsform.",
+    "fact": "Socialdemokraterna går till val på vinstförbud, förbud mot värdeöverföringar, gemensamt skolval och förbud mot religiösa friskolor. Partiets program säger inte att friskolor som verksamhetsform ska avskaffas.",
+    "verdict": "Missvisande",
+    "source": "Socialdemokraterna",
+    "url": "https://www.socialdemokraterna.se/val-2026/valfard/fran-marknadsskola-till-kunskapsskola"
+  },
+  {
+    "id": "f9",
+    "time": "00:46:55",
+    "speaker": "Ulf Kristersson",
+    "topic": "Skola",
+    "claim": "Skolan har fått mer pengar varje år.",
+    "fact": "I fasta priser minskade den totala kostnaden för skolväsendet och annan pedagogisk verksamhet med 2,3 procent 2023 jämfört med 2022. Nominella belopp kan öka samtidigt som de reala resurserna minskar.",
+    "verdict": "Missvisande",
+    "source": "Skolverket",
+    "url": "https://www.skolverket.se/sok-publikationer/publikationsserier/beskrivande-statistik/2024/kostnader-for-skolvasendet-och-annan-pedagogisk-verksamhet-2023"
+  },
+  {
+    "id": "f10",
+    "time": "00:59:15",
+    "speaker": "Ulf Kristersson",
+    "topic": "Bidrag",
+    "claim": "Man kan stapla bidrag på varandra tills summan blir så hög att inget arbete skulle kunna konkurrera.",
+    "fact": "Försörjningsstödet är kompletterande. Socialstyrelsen beskriver att hushållets beräknade behov minskas med hushållets samtliga inkomster efter skatt. Det kan finnas svaga ekonomiska incitament att gå från stöd till arbete, men fullt försörjningsstöd läggs inte ovanpå alla andra inkomster.",
+    "verdict": "Missvisande",
+    "source": "Socialstyrelsen",
+    "url": "https://www.socialstyrelsen.se/kunskapsstod-och-regler/omraden/ekonomiskt-bistand/ekonomiskt-bistand-for-privatpersoner/"
+  },
+  {
+    "id": "f11",
+    "time": "01:03:51",
+    "speaker": "Ulf Kristersson",
+    "topic": "Beredskap",
+    "claim": "Om beredskapslager säger han att det har vi inte haft sen 40 till 50 talet. Nu bygger vi upp det igen.",
+    "fact": "Sverige hade statliga beredskapslager långt senare. Jordbruksverket anger att lagren av insatsvaror till jordbruket avvecklades 1997 och lagren av livsmedel och livsmedelsråvaror 2001.",
+    "verdict": "Felaktigt",
+    "source": "Jordbruksverket",
+    "url": "https://jordbruksverket.se/beredskap/sveriges-livsmedelsberedskap/beredskapslager-av-spannmal-och-insatsvaror"
+  },
+  {
+    "id": "f12",
+    "time": "01:11:57",
+    "speaker": "Ulf Kristersson",
+    "topic": "Kriminalpolitik",
+    "claim": "Socialdemokraterna röstade nej till att ta bort straffrabatten.",
+    "fact": "Socialdemokraterna röstade nej till regeringens samlade reform. I riksdagsdebatten sade partiet samtidigt uttryckligen att man vill slopa mängdrabatten för våldsbrott och sexualbrott och börja med sexualbrotten för att kunna genomföra förändringen snabbare.",
+    "verdict": "Missvisande",
+    "source": "Sveriges riksdag",
+    "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/protokoll/protokoll-202526157-torsdagen-den-13-augusti_hd09157/html/"
+  }
+]
